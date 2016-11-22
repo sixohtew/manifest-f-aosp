@@ -18,7 +18,7 @@
   <project name="omnirom/android_external_libnetfilter_conntrack" path="external/libnetfilter_conntrack" remote="github" revision="android-7.0" />
   <project name="omnirom/android_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="android-7.0" />
 
-  <!-- QCOM HALs -->
+  <!-- Qcom HALs -->
   <project path="hardware/qcom/audio-caf/msm8992" name="omnirom/android_hardware_qcom_audio-caf-msm8992" groups="qcom,qcom_audio" remote="github" revision="android-7.0" />
   <project path="hardware/qcom/display-caf/msm8992" name="omnirom/android_hardware_qcom_display-caf-msm8992" groups="pdk,qcom,qcom_display" remote="github" revision="android-7.0" />
   <project path="hardware/qcom/media-caf/msm8992" name="omnirom/android_hardware_qcom_media-caf-msm8992" groups="qcom" remote="github" revision="android-7.0" />
