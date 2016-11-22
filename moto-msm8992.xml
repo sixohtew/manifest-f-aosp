@@ -8,7 +8,15 @@
   <project name="CyanogenMod/android_external_connectivity" path="external/connectivity" remote="github" revision="cm-14.0" />
   <project name="CyanogenMod/android_vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="github" revision="cm-14.0" />
   <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-14.0" />
-<project name="TheMuppets/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="github" revision="cm-14.1" />
+  <project name="TheMuppets/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="github" revision="cm-14.1" />
+  <project name="omnirom/vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="github" revision="android-7.0" />
+  <project name="omnirom/android_device_qcom_caf-sepolicy" path="device/qcom/sepolicy" remote="github" revision="android-7.0" />
+  <project name="omnirom/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="android-7.0" />
+  <project name="omnirom/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="android-7.0" />
+  <project name="omnirom/android_packages_apps_SnapdragonCamera" path="packages/apps/SnapdragonCamera" remote="github" revision="android-7.0" />
+  <project name="omnirom/android_external_libnfnetlink" path="external/libnfnetlink" remote="github" revision="android-7.0" />
+  <project name="omnirom/android_external_libnetfilter_conntrack" path="external/libnetfilter_conntrack" remote="github" revision="android-7.0" />
+  <project name="omnirom/android_hardware_qcom_gps" path="hardware/qcom/gps" remote="github" revision="android-7.0" />
 
   <!-- QCOM HALs -->
   <project path="hardware/qcom/audio-caf/msm8992" name="omnirom/android_hardware_qcom_audio-caf-msm8992" groups="qcom,qcom_audio" remote="github" revision="android-7.0" />
